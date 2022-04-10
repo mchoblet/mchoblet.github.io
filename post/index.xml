@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mathurin Choblet</title>
+    <link>https://mchoblet.github.io/post/</link>
+    <description>Recent content in Posts on Mathurin Choblet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Apr 2022 17:54:43 +0200</lastBuildDate>
+    
+	<atom:link href="https://mchoblet.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog now online</title>
+      <link>https://mchoblet.github.io/post/blog_online/</link>
+      <pubDate>Sun, 10 Apr 2022 17:54:43 +0200</pubDate>
+      
+      <guid>https://mchoblet.github.io/post/blog_online/</guid>
+      <description>My blog is now online! So this is it, I finally managed to publish my own blog. Using HUGO and Github pages it was actually simpler than I thought.
+In the last years I always thought of having my own website, for sharing some stuff about things I do, maybe it is of interest to you.
+For instance I have accompanied many international students who are starting at Heidelberg University. As some questions used to come up everytime, I thought that some basic information from a students perspective should be written on the internet, so this is what the entry Get started in Heidelberg is for.</description>
+    </item>
+    
+    <item>
+      <title>Hummus Recipe</title>
+      <link>https://mchoblet.github.io/post/hummus-recipe/</link>
+      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mchoblet.github.io/post/hummus-recipe/</guid>
+      <description>Why put the millionth Hummus Recipe online? Couldn’t you come up with something more creative? Well, for my first blog post I wanted to start with something that I think I know how to do. Probably Hummus is the thing I’ve cost most in my life at a variety of events. Hummus is simple to make, nourishing, healthy and delicious. After making your own Hummus you will never reach for supermarket Hummus again.</description>
+    </item>
+    
+  </channel>
+</rss>
