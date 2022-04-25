@@ -6,10 +6,21 @@
     <description>Recent content on Mathurin Choblet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Apr 2022 17:54:43 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 25 Apr 2022 13:01:02 +0200</lastBuildDate>
     
 	<atom:link href="https://mchoblet.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>University</title>
+      <link>https://mchoblet.github.io/top/university/</link>
+      <pubDate>Mon, 25 Apr 2022 13:01:02 +0200</pubDate>
+      
+      <guid>https://mchoblet.github.io/top/university/</guid>
+      <description>A collection of presentations and reports I did throughout my studies.
+During my master thesis (2022) My thesis is about applying methods from Data Assimilation to climate model data and terrestial proxies (speleothemes and icecores) (I will for sure do a blog post at one point)
+ Outline presentation for my project Update presentation (focus on computational efficiency of different type of Ensemble Kalman Filters) Paper discussion in our climate variability Journal club.</description>
+    </item>
     
     <item>
       <title>Blog now online</title>
