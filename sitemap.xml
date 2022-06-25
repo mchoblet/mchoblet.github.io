@@ -3,13 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mchoblet.github.io/tags/blog/</loc>
+    <lastmod>2022-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mchoblet.github.io/post/firsttours/</loc>
+    <lastmod>2022-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mchoblet.github.io/</loc>
-    <lastmod>2022-04-25T13:01:02+02:00</lastmod>
+    <lastmod>2022-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mchoblet.github.io/post/</loc>
+    <lastmod>2022-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mchoblet.github.io/tags/</loc>
-    <lastmod>2022-04-25T13:01:02+02:00</lastmod>
+    <lastmod>2022-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mchoblet.github.io/tags/university/</loc>
+    <lastmod>2022-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,22 +43,7 @@
   </url>
   
   <url>
-    <loc>https://mchoblet.github.io/tags/university/</loc>
-    <lastmod>2022-04-25T13:01:02+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mchoblet.github.io/tags/blog/</loc>
-    <lastmod>2022-04-10T17:54:43+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mchoblet.github.io/post/blog_online/</loc>
-    <lastmod>2022-04-10T17:54:43+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mchoblet.github.io/post/</loc>
     <lastmod>2022-04-10T17:54:43+02:00</lastmod>
   </url>
   
