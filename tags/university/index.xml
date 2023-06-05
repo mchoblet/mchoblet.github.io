@@ -6,10 +6,19 @@
     <description>Recent content in university on Mathurin Choblet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mchoblet.github.io/tags/university/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to (not) Give a Short Scientific Talk</title>
+      <link>https://mchoblet.github.io/post/how_not_to/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mchoblet.github.io/post/how_not_to/</guid>
+      <description>How to (not) Give a Short Scientific Talk - My Experience as a Conference Assistant Being a conference assistant at the European Geoscience Union (EGU) General Assembly 2023 in Vienna (https://www.egu23.eu/), I had the opportunity to witness around 200 scientific talks due to my job in the &amp;ldquo;lecture rooms.&amp;rdquo; My main responsibilities included downloading and opening the PowerPoint/PDF slides of the speakers, adjusting the technical setup, managing the timer, handling the Zoom session for online participants, and communicating with the conveners who led the usually two-hour-long sessions consisting of ten eight-minute talks + two minutes for questions.</description>
+    </item>
     
     <item>
       <title>Finished my master&#39;s thesis!</title>
@@ -39,7 +48,7 @@ Now that I have gathered some reviews on these sites it should be easier to gath
       
       <guid>https://mchoblet.github.io/top/university/</guid>
       <description>A collection of presentations and reports I did throughout my studies.
-Reanalysis of South American Hydroclimate (Publication in preparation) Soon!
+Reanalysis of South American Hydroclimate (Publication in preparation) Soon! Link to EGU-Abstract
 Master thesis (2022) My thesis was about applying methods from Data Assimilation to climate model data and terrestial proxies (speleothemes and icecores) for reconstructing climate fields. You can access it here:
  Thesis  I gave the following talks about my master thesis
  Master final presentation Outline presentation of the project Update presentation (focus on computational efficiency of different type of Ensemble Kalman Filters) Paper discussion in our climate variability Journal club.</description>
