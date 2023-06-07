@@ -6,10 +6,20 @@
     <description>Recent content in university on Mathurin Choblet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mchoblet.github.io/tags/university/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My experience at the European Geoscience Union General Assembly 2023</title>
+      <link>https://mchoblet.github.io/post/egu_2023/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mchoblet.github.io/post/egu_2023/</guid>
+      <description>Over a month ago, I had the privilege of attending the EGU 2023 in Vienna, which marked my first scientific conference. In this blog post, I want to summarize my experiences of presenting a poster and working as a conference assistant, which kept me busy throughout the week. I never thought I would get such a high dose of Geosciences during one week.
+What is the EGU? The European Geoscience Union General Assembly (EGU) is the second-largest geosciences conference globally, following its American counterpart, the AGU.</description>
+    </item>
     
     <item>
       <title>How to (not) Give a Short Scientific Talk</title>
