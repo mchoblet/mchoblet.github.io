@@ -6,56 +6,53 @@
     <description>Recent content in Tops on Mathurin Choblet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Apr 2022 13:01:02 +0200</lastBuildDate>
-    
-	<atom:link href="https://mchoblet.github.io/top/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 11 Nov 2023 13:01:02 +0200</lastBuildDate>
+    <atom:link href="https://mchoblet.github.io/top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archive</title>
+      <link>https://mchoblet.github.io/top/archive/</link>
+      <pubDate>Sat, 11 Nov 2023 13:01:02 +0200</pubDate>
+      <guid>https://mchoblet.github.io/top/archive/</guid>
+      <description>A collection of older things on this blog.
+*Get-started page *Freetour *Miscellaneous</description>
+    </item>
     <item>
       <title>University</title>
       <link>https://mchoblet.github.io/top/university/</link>
       <pubDate>Mon, 25 Apr 2022 13:01:02 +0200</pubDate>
-      
       <guid>https://mchoblet.github.io/top/university/</guid>
       <description>A collection of presentations and reports I did throughout my studies.
 Reanalysis of South American Hydroclimate (Publication in preparation) Soon! Link to EGU-Abstract
 Master thesis (2022) My thesis was about applying methods from Data Assimilation to climate model data and terrestial proxies (speleothemes and icecores) for reconstructing climate fields. You can access it here:
- Thesis  I gave the following talks about my master thesis
- Master final presentation Outline presentation of the project Update presentation (focus on computational efficiency of different type of Ensemble Kalman Filters) Paper discussion in our climate variability Journal club.</description>
+Thesis I gave the following talks about my master thesis
+Master final presentation Outline presentation of the project Update presentation (focus on computational efficiency of different type of Ensemble Kalman Filters) Paper discussion in our climate variability Journal club.</description>
     </item>
-    
     <item>
       <title>Freetour</title>
       <link>https://mchoblet.github.io/top/freetour/</link>
       <pubDate>Sat, 09 Apr 2022 18:05:05 +0200</pubDate>
-      
       <guid>https://mchoblet.github.io/top/freetour/</guid>
       <description>Disclaimer as of February 2023: As I finished my studies in Heidelberg and don&amp;rsquo;t live there anylonger, I can not give the tours any longer. I will transfer this webpage into a blogpost about my experiences in the next months.
 (English) In order to practice my Spanish skills and share the fascinating history of Heidelberg, I decided to become an independent tour guide for the summer months of 2022. You can find me on the usual freetour platforms, which I use to promote the tours (in spanish).</description>
     </item>
-    
     <item>
       <title>About me</title>
       <link>https://mchoblet.github.io/top/about/</link>
       <pubDate>Sat, 09 Apr 2022 13:01:02 +0200</pubDate>
-      
       <guid>https://mchoblet.github.io/top/about/</guid>
-      <description>My CV can be found here.
-Hi! I&amp;rsquo;m Mathurin (aka Mathu or Mathi), physics master student at Heidelberg University. I currently do data science with climate data from models and measurements as a member of the STACY/Climatology group.
-I started studying physics without really knowing what kind of physics I&amp;rsquo;d like to do later. It was mostly the urge to &amp;ldquo;perceive whatever holds the world together in its inmost folds&amp;rdquo;(Goethe&amp;rsquo;s Faust) which brought me to that decision.</description>
+      <description>Hi, I’m Mathurin! Glad you found my web page.
+I’m currently a PhD student in Oceanography at the University of Liège, working on physical-biogeochemical ocean modeling in the MAST group. My research focuses on modeling sediments in the Black Sea of both biogenic and mineral origin.
+With a background in Physics from the University of Heidelberg, where I completed both my Bachelor&amp;rsquo;s and Master&amp;rsquo;s degrees, my journey in climate science began during my time at the STACY/Climatology group group.</description>
     </item>
-    
     <item>
       <title>Get started in Heidelberg</title>
       <link>https://mchoblet.github.io/top/get-started/</link>
       <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://mchoblet.github.io/top/get-started/</guid>
       <description>Information for new students in Heidelberg Updated last time in February 2023
 Hello visitor, where ever you come from!
 If you&amp;rsquo;re a new student arriving in Heidelberg from abroad I hope this is the blog you were looking for. I helped some new students in Heidelberg during the last years and wanted to gather the most important information once and for all at one place.
 My focus lies on sharing personal experiences and letting you save money whenever possible.</description>
     </item>
-    
   </channel>
 </rss>

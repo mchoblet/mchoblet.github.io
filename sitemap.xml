@@ -1,104 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://mchoblet.github.io/top/archive/</loc>
+    <lastmod>2023-11-11T13:01:02+02:00</lastmod>
+  </url><url>
+    <loc>https://mchoblet.github.io/</loc>
+    <lastmod>2023-11-11T13:01:02+02:00</lastmod>
+  </url><url>
+    <loc>https://mchoblet.github.io/top/</loc>
+    <lastmod>2023-11-11T13:01:02+02:00</lastmod>
+  </url><url>
     <loc>https://mchoblet.github.io/tags/blog/</loc>
     <lastmod>2023-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mchoblet.github.io/</loc>
-    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mchoblet.github.io/post/egu_2023/</loc>
     <lastmod>2023-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mchoblet.github.io/post/</loc>
     <lastmod>2023-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mchoblet.github.io/tags/science/</loc>
     <lastmod>2023-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mchoblet.github.io/tags/</loc>
     <lastmod>2023-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mchoblet.github.io/tags/university/</loc>
     <lastmod>2023-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mchoblet.github.io/post/how_not_to/</loc>
     <lastmod>2023-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mchoblet.github.io/post/master/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mchoblet.github.io/post/firsttours/</loc>
     <lastmod>2022-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mchoblet.github.io/top/</loc>
-    <lastmod>2022-04-25T13:01:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mchoblet.github.io/top/university/</loc>
     <lastmod>2022-04-25T13:01:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mchoblet.github.io/post/blog_online/</loc>
     <lastmod>2022-04-10T17:54:43+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mchoblet.github.io/top/freetour/</loc>
     <lastmod>2022-04-09T18:05:05+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mchoblet.github.io/top/about/</loc>
     <lastmod>2022-04-09T13:01:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mchoblet.github.io/tags/food/</loc>
     <lastmod>2022-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mchoblet.github.io/top/get-started/</loc>
     <lastmod>2022-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mchoblet.github.io/post/hummus-recipe/</loc>
     <lastmod>2022-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mchoblet.github.io/tags/international/</loc>
     <lastmod>2022-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mchoblet.github.io/categories/</loc>
   </url>
-  
 </urlset>

@@ -7,69 +7,54 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Jun 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://mchoblet.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://mchoblet.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My experience at the European Geoscience Union General Assembly 2023</title>
       <link>https://mchoblet.github.io/post/egu_2023/</link>
       <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mchoblet.github.io/post/egu_2023/</guid>
       <description>More than a month ago, I had the privilege of attending the EGU 2023 in Vienna, which marked my first scientific conference. In this blog post, I want to summarize my experiences of presenting a poster and working as a conference assistant, which kept me busy throughout the week. I never thought I would get such a high dose of Geosciences during one week.
 What is the EGU? The European Geoscience Union General Assembly (EGU) is the second-largest geosciences conference globally, following its American counterpart, the AGU.</description>
     </item>
-    
     <item>
       <title>How to (not) Give a Short Scientific Talk</title>
       <link>https://mchoblet.github.io/post/how_not_to/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mchoblet.github.io/post/how_not_to/</guid>
       <description>Being a conference assistant at the European Geoscience Union (EGU) General Assembly 2023 in Vienna (https://www.egu23.eu/), I had the opportunity to witness around 200 scientific talks due to my job in the &amp;ldquo;lecture rooms.&amp;rdquo; My main responsibilities included downloading and opening the PowerPoint/PDF slides of the speakers, adjusting the technical setup, managing the timer, handling the Zoom session for online participants, and communicating with the conveners who led the usually two-hour-long sessions consisting of ten 8-minute talks + 2 minutes for questions.</description>
     </item>
-    
     <item>
       <title>Finished my master&#39;s thesis!</title>
       <link>https://mchoblet.github.io/post/master/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://mchoblet.github.io/post/master/</guid>
       <description>I finally handed in my Physics master&amp;rsquo;s thesis at Heidelberg University! Let me first say thank you to all the wonderful people at the STACY/SPACY group at Heidelberg and Tübingen University that made my work possible and made the last year such a pleasant experience.
 In the last year, I&amp;rsquo;ve tested a statistical method named Data Assimilation to reconstruct the climate of the last millennium by fusing information from speleothems and ice cores and so-called isotope-enabled climate models.</description>
     </item>
-    
     <item>
       <title>First guided tours through the old town of Heidelberg</title>
       <link>https://mchoblet.github.io/post/firsttours/</link>
       <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://mchoblet.github.io/post/firsttours/</guid>
       <description>After thinking about the idea for a few months, I finally started guiding small groups of Spanish speaking visitors and will give my fourth tour tomorrow.
 I advertise my so-called Freetours (people can give whatever tip they like in the end) via the usual platforms Guruwalk and Freetour.com, where I offer two tours a week, although I did not always have people yet.
 Now that I have gathered some reviews on these sites it should be easier to gather an audience (although I think that a small group of up to ~8 people is most enjoyable for everyone).</description>
     </item>
-    
     <item>
       <title>Blog now online</title>
       <link>https://mchoblet.github.io/post/blog_online/</link>
       <pubDate>Sun, 10 Apr 2022 17:54:43 +0200</pubDate>
-      
       <guid>https://mchoblet.github.io/post/blog_online/</guid>
       <description>My blog is now online! So this is it, I finally managed to publish my own blog. Using HUGO and Github pages it was actually simpler than I thought.
 In the last years I always thought of having my own website, for sharing some stuff about things I do, maybe it is of interest to you.
 For instance I have accompanied many international students who are starting at Heidelberg University. As some questions used to come up everytime, I thought that some basic information from a students perspective should be written on the internet, so this is what the entry Get started in Heidelberg is for.</description>
     </item>
-    
     <item>
       <title>Hummus Recipe</title>
       <link>https://mchoblet.github.io/post/hummus-recipe/</link>
       <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://mchoblet.github.io/post/hummus-recipe/</guid>
       <description>Why put the millionth Hummus Recipe online? Couldn’t you come up with something more creative? Well, for my first blog post I wanted to start with something that I think I know how to do. Probably Hummus is the thing I’ve cost most in my life at a variety of events. Hummus is simple to make, nourishing, healthy and delicious. After making your own Hummus you will never reach for supermarket Hummus again.</description>
     </item>
-    
   </channel>
 </rss>
