@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mchoblet.github.io/top/archive/</loc>
-    <lastmod>2023-11-11T13:01:02+02:00</lastmod>
-  </url><url>
     <loc>https://mchoblet.github.io/</loc>
-    <lastmod>2023-11-11T13:01:02+02:00</lastmod>
+    <lastmod>2023-11-11T18:09:12+01:00</lastmod>
+  </url><url>
+    <loc>https://mchoblet.github.io/top/misc/</loc>
+    <lastmod>2023-11-11T18:09:12+01:00</lastmod>
   </url><url>
     <loc>https://mchoblet.github.io/top/</loc>
+    <lastmod>2023-11-11T18:09:12+01:00</lastmod>
+  </url><url>
+    <loc>https://mchoblet.github.io/top/archive/</loc>
     <lastmod>2023-11-11T13:01:02+02:00</lastmod>
   </url><url>
     <loc>https://mchoblet.github.io/tags/blog/</loc>

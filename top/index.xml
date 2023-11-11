@@ -6,33 +6,36 @@
     <description>Recent content in Tops on Mathurin Choblet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Nov 2023 13:01:02 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 Nov 2023 18:09:12 +0100</lastBuildDate>
     <atom:link href="https://mchoblet.github.io/top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Miscellaneous</title>
+      <link>https://mchoblet.github.io/top/misc/</link>
+      <pubDate>Sat, 11 Nov 2023 18:09:12 +0100</pubDate>
+      <guid>https://mchoblet.github.io/top/misc/</guid>
+      <description>Texts written for the conference booklet of the physics student conference ZAPF in Heidelberg (in 2018) about the history of our University, the Faculty,deutsche Physik and the student committee our Faculty Presentation about the privatization of water resources in Bolivia for Geography class at High School (2015) Jugend forscht (Young STEM researchers competition project) about examining the moment a body lifts off an inclined plane together with Christian Hufnagel (2015).</description>
+    </item>
     <item>
       <title>Archive</title>
       <link>https://mchoblet.github.io/top/archive/</link>
       <pubDate>Sat, 11 Nov 2023 13:01:02 +0200</pubDate>
       <guid>https://mchoblet.github.io/top/archive/</guid>
-      <description>A collection of older things on this blog.
-*Get-started page *Freetour *Miscellaneous</description>
+      <description>Older things on this blog.
+Get started as a student Heidelberg, a collection of useful information Heidelberg Free Tours in spanish language miscellaneous things) </description>
     </item>
     <item>
       <title>University</title>
       <link>https://mchoblet.github.io/top/university/</link>
       <pubDate>Mon, 25 Apr 2022 13:01:02 +0200</pubDate>
       <guid>https://mchoblet.github.io/top/university/</guid>
-      <description>A collection of presentations and reports I did throughout my studies.
-Reanalysis of South American Hydroclimate (Publication in preparation) Soon! Link to EGU-Abstract
-Master thesis (2022) My thesis was about applying methods from Data Assimilation to climate model data and terrestial proxies (speleothemes and icecores) for reconstructing climate fields. You can access it here:
-Thesis I gave the following talks about my master thesis
-Master final presentation Outline presentation of the project Update presentation (focus on computational efficiency of different type of Ensemble Kalman Filters) Paper discussion in our climate variability Journal club.</description>
+      <description>Publications and conference contributions A continental reconstruction of hydroclimatic variability in South America during the past 2000 years (2023, in preparation) EGU 2023 conference abstract about my work on Paleoclimate Data ASsimilation Graduate Education at the University of Liège Coming soon! Master My thesis was about applying methods from Data Assimilation to climate model data and climate archives (speleothemes and icecores) for reconstructing climate fields of the past 2000 years.</description>
     </item>
     <item>
       <title>Freetour</title>
       <link>https://mchoblet.github.io/top/freetour/</link>
       <pubDate>Sat, 09 Apr 2022 18:05:05 +0200</pubDate>
       <guid>https://mchoblet.github.io/top/freetour/</guid>
-      <description>Disclaimer as of February 2023: As I finished my studies in Heidelberg and don&amp;rsquo;t live there anylonger, I can not give the tours any longer. I will transfer this webpage into a blogpost about my experiences in the next months.
+      <description>I finished my studies in Heidelberg in December 2022 and don&amp;rsquo;t live there any longer, so I am not giving the tours anymore. I will transfer this webpage into a blogpost about my experiences at some point
 (English) In order to practice my Spanish skills and share the fascinating history of Heidelberg, I decided to become an independent tour guide for the summer months of 2022. You can find me on the usual freetour platforms, which I use to promote the tours (in spanish).</description>
     </item>
     <item>
